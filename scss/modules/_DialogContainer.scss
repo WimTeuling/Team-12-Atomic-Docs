@@ -1,0 +1,13 @@
+/* scss/modules/_DialogContainer.scss */
+
+.dialog {
+    background-color: rgba(255,255,255,1);
+    padding: 3rem 2rem;
+    border-radius: 1rem;
+}
+
+.dialog__message {
+    font-family: 'Open Sans',Helvetice,Arial,sans-serif;
+    text-align: center;
+    color: #333;
+}

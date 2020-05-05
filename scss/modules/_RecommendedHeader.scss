@@ -1,0 +1,30 @@
+/* scss/modules/_RecommendedHeader.scss */
+
+.page-recommended__header {
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(241, 241, 241);
+    border-bottom: 1pt solid #ccc;
+    padding-top: 0.5rem;
+}
+
+.page-recommended__header__heading {
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin: 0;
+    color: #1E757E;
+}
+
+.logo-no-text {
+     position: relative;
+     top: -2pt;
+     left: -3pt;
+     transform: rotate(28deg);
+}
+
+.logo-no-text img {
+    height: 2rem;
+}

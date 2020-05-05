@@ -1,0 +1,26 @@
+[
+    {
+        "category": "modules",
+        "order": 3
+    },
+    {
+        "category": "readme",
+        "order": 5
+    },
+    {
+        "category": "navigation",
+        "order": 2
+    },
+    {
+        "category": "buttons",
+        "order": 1
+    },
+    {
+        "category": "Typography",
+        "order": 0
+    },
+    {
+        "category": "pages",
+        "order": 4
+    }
+]

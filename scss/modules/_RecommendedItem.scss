@@ -1,0 +1,68 @@
+/* scss/modules/_RecommendedItem.scss */
+
+.love-card {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    grid-template-rows: 3fr 1fr;
+    column-gap: 2rem;
+
+    max-width: 40rem;
+    background-color: rgb(241, 241, 241);
+    border-radius: 1rem;
+    
+    padding: 1rem;
+    margin-bottom: 0.8rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.love-card__img {
+    max-width: 8rem;
+    max-height: 8rem;
+    
+    border: 1pt solid #ccc;
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: rgb(228, 228, 228);
+}
+
+.love-card__img img {
+    width: 100%;
+    
+}
+
+.love-card__info {
+    margin-bottom: 1rem;
+}
+
+.love-card__action {
+    grid-column: 2;
+}
+
+.love-card__info__text {
+    font-size: 0.8rem;
+    margin-bottom: 0.5rem;
+}
+
+
+.love-card__info__name {
+    font-size: 1.4rem;
+    margin: 0;
+    font-weight: 900;
+    color: #3ba3a8;
+    text-transform: capitalize;
+}
+
+.love-card__info__age {
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.love-card__info__tagline {
+    font-weight: 600;
+    text-transform: capitalize;
+
+}
+
+
+

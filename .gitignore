@@ -1,0 +1,5 @@
+.idea/
+atomic-core/node_modules/
+.vscode/
+.sass-cache/
+.DS_store

@@ -1,0 +1,57 @@
+/* scss/pages/_StartScreen.scss */
+
+  .page-grid {
+    display: grid;
+    padding: 0 3rem;
+  }
+
+  .page-start {
+    grid-template-columns: 1fr;
+    grid-template-rows: 50vh 1fr;
+    row-gap: 1fr;
+    align-items: flex-end;
+
+    min-height: 100vh;
+    padding: 0 3rem;
+  }
+
+  .bg-colour {
+    background: #3ba3a8;
+    background: -webkit-gradient(linear, 100% 0, 0 0, color-stop(0.48, #3ba3a8), to(#1e757e));
+    background: -webkit-linear-gradient(180deg, #3ba3a8 48%, #1e757e 100%);
+    background: -moz-linear-gradient(180deg, #3ba3a8 48%, #1e757e 100%);
+    background: -o-linear-gradient(180deg, #3ba3a8 48%, #1e757e 100%);
+    background: linear-gradient(180deg, #3ba3a8 48%, #1e757e 100%);
+  }
+
+  .logo {
+    width: 30vw;
+    max-width: 20rem;
+    margin-bottom: 2rem;
+    align-self: end;
+    justify-self: center;
+  }
+
+  .login_buttons {
+    align-self: start;
+    justify-self: center;
+
+  }
+
+  .grid-space {
+      padding: 0.5rem;
+  }
+
+/* Small only */
+@media screen and (max-width: 39.9375em) {
+    html { font-size: 0.8rem;}
+}
+
+/* Medium and up */
+@media screen and (min-width: 40em) {
+    .page-start {
+        width: 50vw;
+        max-width: 60em;
+        margin: 0 auto;
+    }
+}

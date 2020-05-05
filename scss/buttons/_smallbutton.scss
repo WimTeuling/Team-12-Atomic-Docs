@@ -1,0 +1,13 @@
+/* scss/buttons/_smallbutton.scss */
+
+.btn-small {
+    
+    background-color: rgb(237, 34, 101); 
+    padding: 0.5rem 1rem;
+}
+
+.btn-small .btn__label {
+    font-size: 0.7rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}

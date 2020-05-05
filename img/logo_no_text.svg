@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with PhotoLine 22.40B4 (www.pl32.com) -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="137" height="154" viewBox="0 0 137 154" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g transform="matrix(1 0 0 1 5 0)">
+    <g id="Circle/Ellipse" transform="matrix(1.028672 0 0 1.028672 -24.757423 -23.072816)">
+      <path fill="#ed2265" fill-rule="evenodd" d="M26.42 60.67 C26.42 47.84 36.84 37.42 49.67 37.42 C62.5 37.42 75.02 46.49 81.99 56.37 C89.16 66.55 98.19 92.67 96.73 121.99 C76.32 98.82 59.63 90.07 47.32 85.21 C38.17 81.6 26.42 74.52 26.42 60.67 Z"/>
+    </g>
+    <g transform="matrix(1 0 0 1 -1.000008 0)">
+      <path fill="#ed2265" fill-rule="evenodd" d="M62.81 93.2 C59.2 96.82 62.17 93.82 54.16 102.42 C54.07 89.43 53.81 94.99 54.5 85.73 C57.36 88.11 60.2 90.54 62.81 93.2 Z M78 79.95 C76.89 71.83 75.25 64.05 73.18 56.12 L69.04 44.47 L66.55 39.5 L69.33 34.92 C78.21 23.59 87.98 16.66 102.58 15.42 C117.18 16.89 125.02 24.74 126.5 39.33 C124.94 53.91 117.43 58.63 105 64.58 C95.27 68.67 86.47 73.63 78 79.95 Z"/>
+    </g>
+  </g>
+</svg>

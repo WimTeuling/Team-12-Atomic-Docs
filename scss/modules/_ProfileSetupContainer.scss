@@ -1,0 +1,39 @@
+/* scss/modules/_ProfileSetupContainer.scss */
+
+.profile-question {
+	background-color: white;
+	border-radius: 2.5rem;
+	box-shadow: #1E757E 4px 8px 6px;
+	padding: 2rem;
+	margin-bottom: 2rem;
+}
+
+.input-list {
+	margin: 0;
+	padding: 0;
+}
+
+.profile-question__heading {
+	color: #1E757E;
+	margin: 0;
+	margin-bottom: 1rem;
+}
+
+
+.profile-question .input-list__item {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	justify-content: space-between;
+}
+
+.radio-label {
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+	font-size: 1.2rem;
+	align-self: flex-start;
+	margin-bottom: 0.5rem;
+	color: #1E757E;
+
+}
+

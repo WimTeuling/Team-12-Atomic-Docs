@@ -1,0 +1,146 @@
+[
+    {
+        "component": "sidebars",
+        "category": "readme",
+        "description": "You can change the order components are displayed by dragging and dropping them in the sidebar. You can also move a component to a different category by dragging and dropping it into that categories file list. All changes will also be reflected in your project files as well as the order of the @import style strings order!",
+        "backgroundColor": "",
+        "order": 1,
+        "has_js": "false"
+    },
+    {
+        "component": "settings",
+        "category": "readme",
+        "description": "By default Atomic Docs is set up for Scss component style files and PHP markup files. This however can be easily changed even after you have started your project. Clicking on the gear icon in the blue toolbar in the sidebar gives you the ability to change the style partial file extension (to .less for example) as well as the ability to change the markup component file extension (to .twig perhaps).",
+        "backgroundColor": "",
+        "order": 0,
+        "has_js": "false"
+    },
+    {
+        "component": "DialogContainer",
+        "category": "modules",
+        "description": "This is the box component!",
+        "backgroundColor": "#3ba3a8",
+        "order": 1,
+        "has_js": "false"
+    },
+    {
+        "component": "navigationbarfooter",
+        "category": "navigation",
+        "description": "",
+        "backgroundColor": "",
+        "order": -2,
+        "has_js": "false"
+    },
+    {
+        "component": "largebutton",
+        "category": "buttons",
+        "description": "",
+        "backgroundColor": "",
+        "order": 1,
+        "has_js": "false"
+    },
+    {
+        "component": "ProfileSetupHeading",
+        "category": "Typography",
+        "description": "",
+        "backgroundColor": "#3ba3a8",
+        "order": 2,
+        "has_js": "false"
+    },
+    {
+        "component": "h1",
+        "category": "Typography",
+        "description": "",
+        "backgroundColor": "",
+        "order": 0,
+        "has_js": "false"
+    },
+    {
+        "component": "paragraphtext",
+        "category": "Typography",
+        "description": "",
+        "backgroundColor": "",
+        "order": 1,
+        "has_js": "false"
+    },
+    {
+        "component": "normalbutton",
+        "category": "buttons",
+        "description": "",
+        "backgroundColor": "",
+        "order": 0,
+        "has_js": "false"
+    },
+    {
+        "component": "FacebookLoginButton",
+        "category": "buttons",
+        "description": "",
+        "backgroundColor": "",
+        "order": 2,
+        "has_js": "false"
+    },
+    {
+        "component": "InstagramLoginButton",
+        "category": "buttons",
+        "description": "",
+        "backgroundColor": "",
+        "order": 3,
+        "has_js": "false"
+    },
+    {
+        "component": "LinktLogo",
+        "category": "modules",
+        "description": "Responsive SVG container.",
+        "backgroundColor": "#3ba3a8",
+        "order": 2,
+        "has_js": "false"
+    },
+    {
+        "component": "StartScreen",
+        "category": "pages",
+        "description": "CSS code only works correct when used in a html page without AtomicDocs. Please check page-tests folder for demo of this page.",
+        "backgroundColor": "",
+        "order": -11,
+        "has_js": "false"
+    },
+    {
+        "component": "ProfileSetupContainer",
+        "category": "modules",
+        "description": "",
+        "backgroundColor": "#3ba3a8",
+        "order": 0,
+        "has_js": "false"
+    },
+    {
+        "component": "RecommendedItem",
+        "category": "modules",
+        "description": "",
+        "backgroundColor": "",
+        "order": -13,
+        "has_js": "false"
+    },
+    {
+        "component": "smallbutton",
+        "category": "buttons",
+        "description": "",
+        "backgroundColor": "",
+        "order": -14,
+        "has_js": "false"
+    },
+    {
+        "component": "RecommendedHeader",
+        "category": "modules",
+        "description": "100vw width works fine when used in page (here it goes full width). Please refer to recommended.html sample page in PAGE_TESTS folder.",
+        "backgroundColor": "",
+        "order": -15,
+        "has_js": "false"
+    },
+    {
+        "component": "smallbuttonalternate",
+        "category": "buttons",
+        "description": "",
+        "backgroundColor": "",
+        "order": -16,
+        "has_js": "false"
+    }
+]

@@ -1,0 +1,24 @@
+/* scss/buttons/_normalbutton.scss */
+
+.btn {
+    display: inline-flex;
+	align-items: center;
+    justify-content: center;
+    
+    border: none;
+	border-radius: 2.5rem;
+	cursor: pointer;
+}
+
+.btn__label {
+    font-family: 'Open Sans';
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: rgba(255,255,255,1);
+}
+
+.btn-normal {
+    background-color: rgb(237, 34, 101); 
+    padding: 0.5rem 3.5rem;
+}
